@@ -1,6 +1,3 @@
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-
-import javax.sound.midi.Soundbank;
 import java.util.Arrays;
 
 public class RandomChar {
