@@ -4,6 +4,7 @@ public class BinarySearch {
 		int[] arr = {2, 4, 7, 10, 11, 45, 50, 59, 60, 66, 69, 70, 79};
 		System.out.println(binarySearch(5, arr));
 	}
+
 	
 	public static int binarySearch(int key, int[] array){
 		int low = 0;
