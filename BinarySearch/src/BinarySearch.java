@@ -5,7 +5,6 @@ public class BinarySearch {
 		System.out.println(binarySearch(5, arr));
 	}
 
-	
 	public static int binarySearch(int key, int[] array){
 		int low = 0;
 		int high = array.length-1;
